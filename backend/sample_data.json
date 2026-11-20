@@ -1,0 +1,49 @@
+{
+  "products" : [
+    {
+      "name"        : "Cà rốt Đà Lạt",
+      "description" : "Cà rốt tươi theo lô, thông tin vùng trồng xem ở mục nguồn gốc.",
+      "unit"        : "kg",
+      "price_vnd"   : 28000,
+      "batches"     : [
+        {
+          "batch_code"     : "MAU-CA-001",
+          "growing_region" : "Đà Lạt, Lâm Đồng",
+          "origin"         : "Lâm Đồng, Việt Nam",
+          "harvest_date"   : "2026-11-10",
+          "quantity"       : "30.000"
+        }
+      ]
+    },
+    {
+      "name"        : "Cải bó hữu cơ",
+      "description" : "Cải xanh bán theo bó.",
+      "unit"        : "bó",
+      "price_vnd"   : 18000,
+      "batches"     : [
+        {
+          "batch_code"     : "MAU-CAI-001",
+          "growing_region" : "Đức Trọng, Lâm Đồng",
+          "origin"         : "Lâm Đồng, Việt Nam",
+          "harvest_date"   : "2026-11-11",
+          "quantity"       : "40"
+        }
+      ]
+    },
+    {
+      "name"        : "Cà chua hộp",
+      "description" : "Cà chua tươi đóng hộp.",
+      "unit"        : "hộp",
+      "price_vnd"   : 32000,
+      "batches"     : [
+        {
+          "batch_code"     : "MAU-CHUA-001",
+          "growing_region" : "Đơn Dương, Lâm Đồng",
+          "origin"         : "Lâm Đồng, Việt Nam",
+          "harvest_date"   : "2026-11-12",
+          "quantity"       : "25"
+        }
+      ]
+    }
+  ]
+}

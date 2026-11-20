@@ -1,0 +1,187 @@
+{
+  "note": "Giá đề xuất để demo, website nguồn không niêm yết giá. Chưa có thông tin tồn kho/lô.",
+  "products": [
+    {
+      "name": "Bí Ngòi Xanh",
+      "category": "Rau củ quả",
+      "description": "Bí ngòi xanh có vị thanh nhẹ, có thể dùng trong các món xào và canh.",
+      "unit": "kg",
+      "price_vnd": 35000,
+      "image_url": "/assets/catalog/bi-ngoi-xanh/main.webp",
+      "images": [
+        "/assets/catalog/bi-ngoi-xanh/detail-1.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/bi-ngoi-xanh/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/pic913071.webp",
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/bi-ngoi-xanh.jpg"
+      ]
+    },
+    {
+      "name": "Bí xanh thơm Bắc Kạn (bí phấn)",
+      "category": "Rau củ quả",
+      "description": "Bí xanh thơm Bắc Kạn có phần cùi mềm, vị ngọt nhẹ và mùi thơm tự nhiên; phù hợp nấu canh, xào hoặc hầm.",
+      "unit": "kg",
+      "price_vnd": 32000,
+      "image_url": "/assets/catalog/bi-xanh-thom-bac-kan/main.jpg",
+      "images": [
+        "/assets/catalog/bi-xanh-thom-bac-kan/detail-1.jpg",
+        "/assets/catalog/bi-xanh-thom-bac-kan/detail-2.png"
+      ],
+      "source_url": "https://thegioinongsan.com/bi-xanh-thom-bac-kan/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/bi-xanh-thom-bac-kan.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/bi-xanh-thom-bac-kan-1.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/vuon-bi-xanh-thom-bac-kan.png"
+      ]
+    },
+    {
+      "name": "Cà chua bi hữu cơ",
+      "category": "Rau củ quả",
+      "description": "Cà chua bi hữu cơ, quả nhỏ, thích hợp dùng trong món salad hoặc chế biến món ăn.",
+      "unit": "kg",
+      "price_vnd": 65000,
+      "image_url": "/assets/catalog/ca-chua-bi-huu-co/main.jpg",
+      "images": [
+        "/assets/catalog/ca-chua-bi-huu-co/detail-1.webp"
+      ],
+      "source_url": "https://thegioinongsan.com/ca-chua-bi-huu-co/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/ca-chua-beef-2-e1648459953278.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/sanpham7_0cc7ac83597349d3a7db7b4c1df8c1f3.webp"
+      ]
+    },
+    {
+      "name": "Cà rốt",
+      "category": "Rau củ quả",
+      "description": "Cà rốt tươi, có thể dùng để nấu canh, xào hoặc làm nguyên liệu cho nhiều món ăn.",
+      "unit": "kg",
+      "price_vnd": 28000,
+      "image_url": "/assets/catalog/ca-rot/main.webp",
+      "images": [
+        "/assets/catalog/ca-rot/detail-1.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/ca-rot/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/ca-rot-huu-co_051657cb99144443bac8015f6dd34dae.webp",
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/ca-rot-huu-co-1.jpg"
+      ]
+    },
+    {
+      "name": "Cà tím hữu cơ",
+      "category": "Rau củ quả",
+      "description": "Cà tím hữu cơ, phù hợp để nướng, xào hoặc nấu món ăn gia đình.",
+      "unit": "kg",
+      "price_vnd": 38000,
+      "image_url": "/assets/catalog/ca-tim-huu-co/main.webp",
+      "images": [
+        "/assets/catalog/ca-tim-huu-co/detail-1.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/ca-tim-huu-co/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/ca-tim-huu-co_cc6345e4d148426c9b74ec37cf736662_1024x1024.webp",
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/ca-tim-huu-co.jpg"
+      ]
+    },
+    {
+      "name": "Củ cải đỏ baby",
+      "category": "Rau củ quả",
+      "description": "Củ cải đỏ baby có vỏ đỏ, ruột trắng và phần lá xanh; có thể dùng trong món salad hoặc chế biến món ăn.",
+      "unit": "kg",
+      "price_vnd": 55000,
+      "image_url": "/assets/catalog/cu-cai-do-baby/main.jpg",
+      "images": [
+        "/assets/catalog/cu-cai-do-baby/detail-1.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/cu-cai-do-baby/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/92e13505e200c6349eec56350764054d.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/cu-cai-do-baby-bo-800x800-1.jpg"
+      ]
+    },
+    {
+      "name": "Củ dền hữu cơ",
+      "category": "Rau củ quả",
+      "description": "Củ dền hữu cơ có màu đỏ đặc trưng, có thể chế biến thành các món ăn và đồ uống.",
+      "unit": "kg",
+      "price_vnd": 42000,
+      "image_url": "/assets/catalog/cu-den-huu-co/main.jpg",
+      "images": [
+        "/assets/catalog/cu-den-huu-co/detail-1.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/cu-den-huu-co/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/cuden-do-huuco-dalat-anhoafood-5-600x600-1.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/230-cu-den-huu-co-1.jpg"
+      ]
+    },
+    {
+      "name": "Khoai tây hữu cơ",
+      "category": "Rau củ quả",
+      "description": "Khoai tây hữu cơ phù hợp nấu súp, cháo, nghiền hoặc chế biến các món ăn khác.",
+      "unit": "kg",
+      "price_vnd": 39000,
+      "image_url": "/assets/catalog/khoai-tay-huu-co/main.jpg",
+      "images": [
+        "/assets/catalog/khoai-tay-huu-co/detail-1.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/khoai-tay-huu-co/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/khoai-tay.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/cay-khoai-tay.jpg"
+      ]
+    },
+    {
+      "name": "Măng Tây",
+      "category": "Rau củ quả",
+      "description": "Măng tây tươi, có thể dùng để xào hoặc chế biến cùng các món ăn khác.",
+      "unit": "kg",
+      "price_vnd": 180000,
+      "image_url": "/assets/catalog/mang-tay/main.jpg",
+      "images": [
+        "/assets/catalog/mang-tay/detail-1.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/mang-tay/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/000000160.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2022/03/mang-tay-sach-e1497259347695-1.jpg"
+      ]
+    },
+    {
+      "name": "Quýt Bắc Kạn",
+      "category": "Trái cây",
+      "description": "Quýt Bắc Kạn, trái cây có nguồn gốc được giới thiệu tại Bắc Kạn.",
+      "unit": "kg",
+      "price_vnd": 48000,
+      "image_url": "/assets/catalog/quyt-bac-kan/main.png",
+      "images": [
+        "/assets/catalog/quyt-bac-kan/detail-1.jpg",
+        "/assets/catalog/quyt-bac-kan/detail-2.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/quyt-bac-kan/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/quytthai.jpg-Edited.png",
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/Quyt-bach-thong.jpg",
+        "https://thegioinongsan.com/wp-content/uploads/2025/12/Quyt-Bac-kan.jpg"
+      ]
+    },
+    {
+      "name": "Sâm đất Lai Châu",
+      "category": "Rau củ quả",
+      "description": "Sâm đất Lai Châu là loại củ có màu vàng nhạt đến nâu đất, vị ngọt và giòn.",
+      "unit": "kg",
+      "price_vnd": 95000,
+      "image_url": "/assets/catalog/sam-dat-lai-chau/main.png",
+      "images": [
+        "/assets/catalog/sam-dat-lai-chau/detail-1.png",
+        "/assets/catalog/sam-dat-lai-chau/detail-2.jpg"
+      ],
+      "source_url": "https://thegioinongsan.com/sam-dat-lai-chau/",
+      "source_images": [
+        "https://thegioinongsan.com/wp-content/uploads/2026/06/Sam-Dat-Lai-Chau-The-Gioi-Nong-San.png",
+        "https://thegioinongsan.com/wp-content/uploads/2026/06/Sam-dat-Lai-Chau-The-Gioi-Nong-San-1.png",
+        "https://thegioinongsan.com/wp-content/uploads/2026/06/z7901440274562_effaafd22e06b7a46c14bec2d9b9e128.jpg"
+      ]
+    }
+  ]
+}

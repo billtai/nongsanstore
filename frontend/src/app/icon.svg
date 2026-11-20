@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vườn Nhà">
+  <rect width="64" height="64" rx="17" fill="#1e4b32"/>
+  <path d="M32 47V27" fill="none" stroke="#f7f2dd" stroke-width="4" stroke-linecap="round"/>
+  <path d="M30 31C18 32 13 26 14 16c9-1 16 3 18 13" fill="#dceac4"/>
+  <path d="M34 27c2-10 9-14 18-13 1 10-4 16-16 17" fill="#a9c671"/>
+  <path d="M21 49c6-4 16-4 22 0" fill="none" stroke="#f7f2dd" stroke-width="4" stroke-linecap="round"/>
+</svg>

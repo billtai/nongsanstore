@@ -1,0 +1,14 @@
+# Cấu hình và dữ liệu chỉ dùng trên máy local.
+backend/.env
+frontend/.env.local
+backend/instance/
+backend/.venv/
+
+# Tệp sinh khi chạy và build.
+**/__pycache__/
+*.pyc
+frontend/.next/
+frontend/.next-dev/
+frontend/node_modules/
+frontend/tsconfig.tsbuildinfo
+assets/products/
